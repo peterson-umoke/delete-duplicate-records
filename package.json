@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0",
+    "laravel-mix": "^2.1.14",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "sweetalert2": "^7.28.5",
+    "toastr": "^2.1.4"
+  }
+}
